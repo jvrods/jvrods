@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**jvrods/jvrods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm João Victor Rodrigues 👋
 
-Here are some ideas to get you started:
+Welcome to my profile, please don't look at the mess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Little Things About Me
+
+- 🌱 &nbsp; I'm IT student.
+
+- 💼 &nbsp; Working as a Uber Driver.
+
+- 🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think that i like suffering.
+
+
+[![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvrods&show_icons=true)](https://github.com/jvrods)
+
+### My Tech Stack
+
+- 💻 &nbsp; javaScript, nodeJs, react
+- 🛢 &nbsp; MySQL | Mongo
+- 🔧 &nbsp; Git 
+
+[![João most used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jvrods)](https://github.com/jvrods)
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+<a href="https://https://www.linkedin.com/in/jo%C3%A3o-victor-rodrigues-8451731a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João Victor-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:joaorodriguesvictor@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-joaorodriguesvictor@outlook.com-blue?style=flat-square&logo=gmail"></a>
+</p>
