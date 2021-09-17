@@ -16,7 +16,7 @@ Welcome to my profile, please don't look at the mess.
 
 ### My Tech Stack
 
-- 💻 &nbsp; javaScript, nodeJs, react
+- 💻 &nbsp; javaScript, nodeJs, reactJs
 - 🛢 &nbsp; MySQL | Mongo
 - 🔧 &nbsp; Git 
 
