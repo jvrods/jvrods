@@ -25,6 +25,6 @@ Welcome to my profile, please don't look at the mess.
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/joão-victor-rodrigues-8451731a4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João Victor-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-rodrigues-8451731a4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-João Victor-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:joaorodriguesvictor@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-joaorodriguesvictor@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
