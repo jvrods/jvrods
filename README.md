@@ -16,10 +16,7 @@ Welcome to my profile, please don't look at the mess.
 
 ### My Tech Stack
 
-- 💻 &nbsp; javaScript, nodeJs, reactJs
-- 🛢 &nbsp; MySQL | Mongo
-- 🔧 &nbsp; Git 
-
+-💻 I’m currently learning: Java, JavaScript, SQL, Mongo, reactJs.
 [![João most used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jvrods)](https://github.com/jvrods)
 
 ### 🤝🏻 Connect with Me
